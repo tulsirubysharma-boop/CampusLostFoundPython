@@ -1,0 +1,28 @@
+{
+    "locations": [
+        {
+            "name": "Block A"
+        },
+        {
+            "name": "Block B"
+        },
+        {
+            "name": "Block C"
+        },
+        {
+            "name": "Administration"
+        }
+    ],
+    "connections": [
+        {
+            "from": "Block A",
+            "to": "Block B",
+            "distance": 5.0
+        },
+        {
+            "from": "Block C",
+            "to": "Administration",
+            "distance": 7.0
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "name": "watch",
+        "category": "Electronics",
+        "location": "block A",
+        "description": "Black wrist watch",
+        "status": "LOST",
+        "reporter_name": "Tulsi Sharma",
+        "reporter_email": "26mci10244@cuchd.in",
+        "date": "2026-10-22 20:00"
+    },
+    {
+        "id": 2,
+        "name": "Black Watch",
+        "category": "Electronics",
+        "location": "black A",
+        "description": "Black wrist",
+        "status": "CLAIMED",
+        "reporter_name": "Tulsi Sharma",
+        "reporter_email": "26mci10244@cuchd.in",
+        "date": "2026-10-22 20:00",
+        "claimed_at": "2026-10-22 21:26:46"
+    },
+    {
+        "id": 3,
+        "name": "wallet",
+        "category": "Accessories",
+        "location": "Black B2",
+        "description": "Black Wallet",
+        "status": "FOUND",
+        "reporter_name": "Tulsi Sharma",
+        "reporter_email": "26mci10244@cuchd.in",
+        "date": "2026-10-22 20:03",
+        "review_status": "REJECTED",
+        "reviewed_at": "2026-10-24 13:31:31",
+        "reviewed_by": "tulsisharma@gmail.com"
+    },
+    {
+        "id": "I001",
+        "name": "Purse",
+        "category": "Accessories",
+        "location": "Black A",
+        "date": "2026-10-24",
+        "description": "Pink colour with a barbie key chain",
+        "status": "LOST",
+        "review_status": "REJECTED",
+        "reported_by": "26mci10244@cuchd.in",
+        "reporter_name": "Tulsi Sharma",
+        "created_at": "2026-10-24 15:04:11",
+        "reviewed_at": "2026-10-24 15:06:38",
+        "reviewed_by": "tulsisharma@gmail.com"
+    },
+    {
+        "id": "I002",
+        "name": "purse",
+        "category": "Accessories",
+        "location": "Block A",
+        "date": "2026-10-24",
+        "description": "Pink key chain",
+        "status": "FOUND",
+        "review_status": "APPROVED",
+        "reported_by": "26mci10244@cuchd.in",
+        "reporter_name": "Tulsi Sharma",
+        "created_at": "2026-10-24 15:04:35",
+        "reviewed_at": "2026-10-24 15:06:33",
+        "reviewed_by": "tulsisharma@gmail.com"
+    }
+]

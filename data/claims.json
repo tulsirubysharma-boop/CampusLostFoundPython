@@ -1,0 +1,26 @@
+[
+    {
+        "id": "C001",
+        "item_id": "3",
+        "item_name": "wallet",
+        "claimant_email": "26mci10244@cuchd.in",
+        "claimant_name": "Tulsi Sharma",
+        "explanation": "I found it in near blok A stairs",
+        "status": "REJECTED",
+        "created_at": "2026-10-22 20:24:39",
+        "reviewed_at": "2026-10-22 21:26:51",
+        "reviewed_by": "tulsisharma@gmail.com"
+    },
+    {
+        "id": "C002",
+        "item_id": "2",
+        "item_name": "Black Watch",
+        "claimant_email": "chitrasharma@gmail.com",
+        "claimant_name": "Chitra Sharma",
+        "explanation": "Found under the table of room 302 of Block B",
+        "status": "APPROVED",
+        "created_at": "2026-10-22 21:07:02",
+        "reviewed_at": "2026-10-22 21:26:46",
+        "reviewed_by": "tulsisharma@gmail.com"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Tulsi Sharma",
+        "email": "26mci10244@cuchd.in",
+        "salt": "a6602d7c824af4e8f0bd765a716a5098",
+        "password_hash": "657aeffac5fb57735bc67a128662bd3ea37bdba40a89a781bdd2814c3c798a0c",
+        "role": "STUDENT"
+    },
+    {
+        "name": "Chitra Sharma",
+        "email": "chitrasharma@gmail.com",
+        "salt": "7581d9b843b3b121b79b07624b91e5bd",
+        "password_hash": "f4de9b5a2405ca960b9f2a0ae5293c8f10e1da03da4a5ba3a5b90b34e25c0c97",
+        "role": "STUDENT"
+    },
+    {
+        "id": "U001",
+        "name": "Tulsi Sharma",
+        "email": "tulsisharma@gmail.com",
+        "salt": "2a40792174b4a2f9633a73d7b4845bb3",
+        "password_hash": "6ff88722a33afca2560f275a926244802bc2c06b9dfad137cf05ee8c4d8ec5cc",
+        "role": "ADMIN",
+        "created_at": "2026-10-22 21:26:04"
+    }
+]
